@@ -6,4 +6,4 @@ Welcome!!! to my GitHub repository where I share my solutions to various Data St
 
 | Date       | Topic         | Question                                      | Answer                                       |
 |------------|---------------|-----------------------------------------------|----------------------------------------------|
-| 01-03-2024 | Array         | [Nth Finbonacci Number](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?page=1)              | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/ccac83cfbcf627f8cbe06e00e2fea413c45c0618/GFG_Nth_Fibonacci_Number.java)                |
+| 01-03-2024 | Fibonacci         | [Nth Finbonacci Number](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?page=1)              | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/ccac83cfbcf627f8cbe06e00e2fea413c45c0618/GFG_Nth_Fibonacci_Number.java)                |
