@@ -7,3 +7,4 @@ Welcome!!! to my GitHub repository where I share my solutions to various Data St
 | Date       | Topic         | Question                                      | Answer                                       |
 |------------|---------------|-----------------------------------------------|----------------------------------------------|
 | 01-03-2024 | Fibonacci         | [Nth Finbonacci Number](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1?page=1)              | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/ccac83cfbcf627f8cbe06e00e2fea413c45c0618/GFG_Nth_Fibonacci_Number.java)                |
+| 01-03-2024 | Array             | [Missing Number in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1) | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/40e4e0ae1236c1bb08d61cc7e7a76b084fdc13ef/GFG_Missing_Number_in_Array.java)
