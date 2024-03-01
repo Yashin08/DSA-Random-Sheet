@@ -1,6 +1,5 @@
 # DSA-Random-Sheet
 > Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-
 > – Linus Torvalds
 
 Welcome!!! to my GitHub repository where I share my solutions to various Data Structures and Algorithms (DSA) questions in Java! Here, you'll find daily updates as I tackle different topics and provide solutions to challenges.
