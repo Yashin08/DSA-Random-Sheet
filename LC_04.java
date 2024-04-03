@@ -10,7 +10,7 @@ class Solution {
             int b = result[(x) / 2];
             return (double) (a + b) / 2;
         } else {
-            return (double) result[(x - 1) / 2]; 
+            return (double) result[(x - 1) / 2]; //returns solution
         }
     }
 }
