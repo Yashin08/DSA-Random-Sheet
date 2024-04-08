@@ -1,7 +1,6 @@
 class Solution
 {
-    // Function to check if a string can be obtained by rotating
-    // another string by exactly 2 places.
+   
     public static boolean isRotated(String str1, String str2)
     {
         if(str1.length() != str2.length()){
