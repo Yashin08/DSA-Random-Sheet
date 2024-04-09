@@ -2,7 +2,7 @@ class Solution {
     int getPairsCount(int[] arr, int n, int k) {
         int count = 0;
 
-        // Create a HashMap to store the frequency of each element in the array
+        
         Map<Integer, Integer> freqMap = new HashMap<>();
 
         // Traverse the array and update the frequency map
