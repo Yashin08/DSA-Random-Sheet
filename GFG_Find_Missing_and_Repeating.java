@@ -8,7 +8,7 @@ class Solve {
             if (arr[index] > 0) {
                 arr[index] = -arr[index];
             } else {
-                result[0] = Math.abs(arr[i]); // Repeated element
+                result[0] = Math.abs(arr[i]); 
             }
         }
 
