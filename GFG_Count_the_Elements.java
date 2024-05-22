@@ -14,6 +14,6 @@ class Solution
             }
             count = 0;
         }
-        return result;
+        return result; //result
     }
 }
