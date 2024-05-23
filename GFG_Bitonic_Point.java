@@ -1,6 +1,6 @@
 class Solution {
     int findMaximum(int[] arr, int n) {
-        // lower bound
+        
         int low = 0, high = n-1;
         while(low <= high){
             int mid = low + (high - low)/2;
