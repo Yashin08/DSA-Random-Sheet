@@ -9,7 +9,7 @@ class Solution {
             // Update the count in the map
             map.put(currentChar, map.getOrDefault(currentChar, 0) + 1);
 
-            // Append the first non-repeating character to the result
+           
             result.append(getFirstNonRepeating(map));
         }
 
