@@ -1,6 +1,6 @@
 class Intersect
 {
-    //Function to find intersection point in Y shaped Linked Lists.
+    
 	int intersectPoint(Node head1, Node head2)
 	{
         if(head1 == null || head2 == null){
