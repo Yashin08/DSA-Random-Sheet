@@ -7,7 +7,7 @@ class Solution
     ArrayList<Integer> commonElements(int A[], int B[], int C[], int n1, int n2, int n3) 
     {
         int count = 0, ans = 0;
-        HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();   // Creating HashMap 
+        HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();   
         ArrayList<Integer> result = new ArrayList<Integer>();              
         for(Integer i : A){                                               // Checking and adding elemts of array A in hashmap
             if(hm.containsKey(i)){                                        // Skipping the iteration if the elemts repeats
