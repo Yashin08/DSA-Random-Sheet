@@ -1,6 +1,6 @@
 class Solution
 {
-    //Function to find the length of a loop in the linked list.
+    
     static int countNodesinLoop(Node head)
     {
         Node fast = head;
