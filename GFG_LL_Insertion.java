@@ -3,7 +3,7 @@ class Solution
     
     Node insertAtBeginning(Node head, int x)
     {
-        // code here
+        
         if(head ==  null) return new Node(x);
         
         Node newNode = new Node(x);
