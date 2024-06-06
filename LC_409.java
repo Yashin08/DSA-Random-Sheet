@@ -20,7 +20,7 @@ class Solution {
             }
             else if(value % 2 != 0){
                 count += value-1; //to add the even value to the count, like if we have frquenct 3, then it will add 2
-                bool = true; //this will be used later to add 1 to count, as atleast 1 add character can be included
+                bool = true; 
             }
         }
 
