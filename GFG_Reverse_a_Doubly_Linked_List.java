@@ -8,7 +8,7 @@ public static Node reverseDLL(Node  head)
         node.next = prevptr; //update both the values of a single node
         node.prev = nextptr; //update both the values of a single node
         prevptr = node; //update the nodes
-        node = nextptr; //update the nodes
+        node = nextptr; 
     }
     return prevptr;
 }
