@@ -162,4 +162,4 @@ Welcome!!! to my GitHub repository where I share my solutions to various Data St
 | 163 | 16-06-24 | String | [Longest Pallindrome in a String](https://www.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1) | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/18d69d516df01411d396f723f51dd9c4e3828968/GFG_Longest_Pallindrome_in_a_String.java) |
 | 164 | 26-06-24 | Dynamic Programming | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/5d653cbb3866cff277530ed3d32d6c0676ae6ca4/GFG_0-1_Knapsack_Problem.java) |
 | 165 | 27-06-24 | Matrix | [Toeplitz Matrix](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1) | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/4274b84f44b331ce93a0b681d2a347dbe14adbd7/GFG_Toeplitz_Matrix.java) 
-|
+| 166 | 29-06-24 | Linked List | [Identical Linked List](https://www.geeksforgeeks.org/problems/identical-linked-lists/1) | [Solution](https://github.com/Yashin08/DSA-Random-Sheet/blob/d56c2ac2f6c183cf355619b9d0b9946f198904a7/GFG_Identical_Linked_List.java) |
